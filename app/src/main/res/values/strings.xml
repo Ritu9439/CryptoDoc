@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DummyExample</string>
+    <string name="title">CYRPTODOC</string>
+    <string name="subtitle">FINANCIAL MARKET</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="link">Read More<u>underline</u>.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="data">
+
+
+        <item>Coinsecure</item>
+        <item>Coinsecure</item>
+        <item>Coinsecure</item>
+    </array>
+</resources>

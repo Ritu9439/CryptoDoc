@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2d2e</color>
+    <color name="colorPrimary2">#545454</color>
+    <color name="colorPrimary3">#9b9b9b</color>
+    <color name="colorPrimaryDark">#545454</color>
+    <color name="colorAccent">#545454</color>
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+
+
+
+    <!--Coinsecure-->
+
+    <color name="background">#0BAAB2</color>;
+    <color name="companyname">#F1B518</color>;
+</resources>

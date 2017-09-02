@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableLayout
+        android:id="@+id/tbl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TableRow
+            >
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:id="@+id/marketname"
+                android:background="#c4c2c2"
+                android:textColor="@android:color/white"
+                android:text="Market"/>
+            <TextView  android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:background="#c4c2c2"
+
+                android:id="@+id/buy"
+                android:textColor="@android:color/white"
+
+                android:text="Buy"/>
+            <TextView android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:textColor="@android:color/white"
+                android:padding="10dp"
+                android:id="@+id/sell"
+                android:background="#c4c2c2"
+
+                android:layout_height="wrap_content"
+                android:text="Sell" />
+        </TableRow>
+    </TableLayout>
+</android.support.v7.widget.CardView>
